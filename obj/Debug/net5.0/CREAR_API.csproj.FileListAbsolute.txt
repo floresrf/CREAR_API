@@ -1,0 +1,264 @@
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\appsettings.json
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.exe
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.deps.json
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.runtimeconfig.json
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.runtimeconfig.dev.json
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.pdb
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.AssemblyReference.cache
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.AssemblyInfoInputs.cache
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.AssemblyInfo.cs
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.CoreCompileInputs.cache
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.sourcelink.json
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.RazorTargetAssemblyInfo.cache
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\scopedcss\bundle\CREAR_API.styles.css
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\CREAR_API.StaticWebAssets.Manifest.cache
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\CREAR_API.StaticWebAssets.Pack.cache
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.CREAR_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.build.CREAR_API.props
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CREAR_API.props
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CREAR_API.props
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.Up2Date
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\refint\CREAR_API.dll
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.pdb
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.genruntimeconfig.cache
+C:\Users\cd17\Documents\RENE\CREAR_API\obj\Debug\net5.0\ref\CREAR_API.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\appsettings.json
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.exe
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.deps.json
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.runtimeconfig.json
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.runtimeconfig.dev.json
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\CREAR_API.pdb
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.AssemblyReference.cache
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.AssemblyInfoInputs.cache
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.AssemblyInfo.cs
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.CoreCompileInputs.cache
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.sourcelink.json
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.RazorTargetAssemblyInfo.cache
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\scopedcss\bundle\CREAR_API.styles.css
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\CREAR_API.StaticWebAssets.Manifest.cache
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\CREAR_API.StaticWebAssets.Pack.cache
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.CREAR_API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.build.CREAR_API.props
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CREAR_API.props
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CREAR_API.props
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.Up2Date
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\refint\CREAR_API.dll
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.pdb
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\CREAR_API.genruntimeconfig.cache
+C:\Users\cisco01\Documents\RENE\CREAR_API\obj\Debug\net5.0\ref\CREAR_API.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\appsettings.Development.json
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\appsettings.json
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\CREAR_API.exe
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\CREAR_API.deps.json
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\CREAR_API.runtimeconfig.json
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\CREAR_API.runtimeconfig.dev.json
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\CREAR_API.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\CREAR_API.pdb
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Humanizer.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.AssemblyReference.cache
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.AssemblyInfoInputs.cache
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.AssemblyInfo.cs
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.CoreCompileInputs.cache
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.MvcApplicationPartsAssemblyInfo.cs
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.MvcApplicationPartsAssemblyInfo.cache
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.sourcelink.json
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.RazorTargetAssemblyInfo.cache
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\scopedcss\bundle\CREAR_API.styles.css
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\staticwebassets\CREAR_API.StaticWebAssets.Manifest.cache
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\staticwebassets\CREAR_API.StaticWebAssets.Pack.cache
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.CREAR_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.build.CREAR_API.props
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CREAR_API.props
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CREAR_API.props
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.Up2Date
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\refint\CREAR_API.dll
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.pdb
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\CREAR_API.genruntimeconfig.cache
+D:\UTS\UTS SEP - DEC 2024\CREAR_API\obj\Debug\net5.0\ref\CREAR_API.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\appsettings.Development.json
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\appsettings.json
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\CREAR_API.exe
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\CREAR_API.deps.json
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\CREAR_API.runtimeconfig.json
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\CREAR_API.runtimeconfig.dev.json
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\CREAR_API.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\CREAR_API.pdb
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Humanizer.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.AssemblyReference.cache
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.AssemblyInfoInputs.cache
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.AssemblyInfo.cs
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.CoreCompileInputs.cache
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.MvcApplicationPartsAssemblyInfo.cs
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.MvcApplicationPartsAssemblyInfo.cache
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.sourcelink.json
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.RazorTargetAssemblyInfo.cache
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\scopedcss\bundle\CREAR_API.styles.css
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\staticwebassets\CREAR_API.StaticWebAssets.Manifest.cache
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\staticwebassets\CREAR_API.StaticWebAssets.Pack.cache
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.CREAR_API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.build.CREAR_API.props
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.CREAR_API.props
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.CREAR_API.props
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.csproj.Up2Date
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\refint\CREAR_API.dll
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.pdb
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\CREAR_API.genruntimeconfig.cache
+D:\UTS\4to Cuatrimestre\API's\CREAR_API\obj\Debug\net5.0\ref\CREAR_API.dll

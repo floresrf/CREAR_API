@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CREAR_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d899b50f9c12483411c919211f702858e35eabb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CREAR_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CREAR_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
